@@ -53,6 +53,6 @@ var ratting = 5.0
 ratting=6
 print(ratting)
 ratting+=2
-ratting=ratting+9
+ratting=ratting+99
 print(ratting)
 
