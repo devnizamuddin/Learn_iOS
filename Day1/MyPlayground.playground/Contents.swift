@@ -43,3 +43,16 @@ count += 5 // Compound Assignment Operator
 print(count)
 print(count.isMultiple(of: 3))
 print(16.isMultiple(of: 3))
+
+// ------Decimal Number-------//
+let a = 1
+let b = 2.0
+//let c = a*b // Not Posible because it's type safe
+
+var ratting = 5.0
+ratting=6
+print(ratting)
+ratting+=2
+ratting=ratting+9
+print(ratting)
+
