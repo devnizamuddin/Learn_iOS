@@ -11,4 +11,4 @@ You will find every day are separated with folder.
 
 ### Journey
 
-- [Day](https://gitlab.com/pakizatvl/criptonapp)
+- [Day 1](https://github.com/devnizamuddin/Learn_iOS/tree/Day_1)
